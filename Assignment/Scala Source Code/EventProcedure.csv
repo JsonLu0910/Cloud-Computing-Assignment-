@@ -1,0 +1,8 @@
+Class,Return,Name,Parameter,Component
+public,void,keyTyped,KeyEvent e,KeyManager
+public,void,keyPressed,KeyEvent e,KeyManager
+public,void,keyReleased,KeyEvent e,KeyManager
+public,void,keyPressed,KeyEvent ke,InputHandler
+public,void,keyReleased,KeyEvent ke,InputHandler
+private,void,toggle,"KeyEvent ke, boolean pressed",InputHandler
+public,void,keyTyped,KeyEvent ke,InputHandler
